@@ -1,2 +1,4 @@
 # Basic-Informational-Site
-This site will  be used to feed the front-end different files based on the the links, It is meant to display my initiation to NodeJS
+
+This is a basic Information site that uses NodeJS to return html files
+to the frontend when requested
